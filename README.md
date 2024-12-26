@@ -22,8 +22,12 @@ The dataset used to create this dashboard (if sharing is permissible).
 
 ReadMe.md: 
 Explanation of how to use the dashboard and customize it for your needs.
-Key Insights
+
+Key Insights:
+
 Regional sales trends and performance.
+
 Top-performing categories and products.
+
 Customer segmentation for targeted marketing.
 
